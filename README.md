@@ -1,6 +1,6 @@
-# Traffic Sign Recognition Using YOLOv8 and Tkinter
+# 🚦 Traffic Sign Recognition Using YOLOv8 and Tkinter
 
-🚦 A Python application for **Traffic Sign Recognition** using **YOLOv8**, with a simple **Tkinter GUI** for easy interaction.
+A Python application for **Traffic Sign Recognition** using **YOLOv8**, with a simple **Tkinter GUI** for easy interaction.
 
 ## 📌 Features
 - **Detects traffic signs** from images or live webcam feed.
