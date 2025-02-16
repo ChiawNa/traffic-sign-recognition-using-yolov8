@@ -15,13 +15,7 @@
 
 ## 📝 Steps on how to build this project
 ### Step 1: 
-Obtain the Dataset The dataset can be accessed from Roboflow at the following link: [Roboflow Dataset](https://universe.roboflow.com/roboflow-58fyf/rock-paper-scissors-sxsw/dataset/14) 
+Obtain the Dataset The dataset can be accessed from Roboflow at the following link: [Roboflow Dataset](https://universe.roboflow.com/roboflow-100/road-signs-6ih4y/dataset/2)
 ### Step 2: 
-Train the Model Use the following Google Colab notebooks to train the model: 
-- **YOLOv8**: [Google Colab Notebook](https://colab.research.google.com/drive/1ToYYk5D-KLa1Qz_0CuRLCLT7DuOlK-1f?usp=sharing)
-- **YOLOv11**: [Google Colab Notebook](https://colab.research.google.com/drive/1C-4kNeilbdiPaYQeybFSQoVpf6YYhIqB?usp=sharing)
-  
-### Step 3: 
-Develop the Desktop GUI Application Develop a desktop GUI application, implement the trained model, and integrate it into the app.
+Train the Model Use the following Google Colab notebooks to train the model: [Google Colab Notebook](https://colab.research.google.com/drive/1kD-Jt22Ld9Q0qP5-2X13iPNdwCE4qPcr#scrollTo=I4bpUIibcV1l)
 
-[View the Report](https://1drv.ms/w/c/ecf96967acd2fef2/EQnar0OakC1Kt-QYEet5uBcB4eZRtcrjmQKCwwZGybox7A?e=kbP9HC)
