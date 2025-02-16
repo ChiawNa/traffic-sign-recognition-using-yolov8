@@ -2,6 +2,14 @@
 
 A Python application for **Traffic Sign Recognition** using **YOLOv8**, with a simple **Tkinter GUI** for easy interaction.
 
+## 🔄Demo GIF
+![Untitledvideo-MadewithClipchamp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/573daf8e-cb11-47c5-af4a-2680ce5b6934)
+
+
+## 🎥Demo Video
+Watch the full demo video on YouTube:  
+[Demo Video](https://www.youtube.com/watch?v=xODnWbbvxIA)
+
 ## 📌 Features
 - **Detects traffic signs** from images or live webcam feed.
 - **Uses YOLOv8** for accurate and real-time object detection.
