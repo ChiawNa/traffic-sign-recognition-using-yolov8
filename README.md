@@ -5,7 +5,6 @@ A Python application for **Traffic Sign Recognition** using **YOLOv8**, with a s
 ## 🔄Demo GIF
 ![Untitledvideo-MadewithClipchamp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/573daf8e-cb11-47c5-af4a-2680ce5b6934)
 
-
 ## 🎥Demo Video
 Watch the full demo video on YouTube:  
 [Demo Video](https://www.youtube.com/watch?v=xODnWbbvxIA)
